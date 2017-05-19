@@ -41,7 +41,8 @@
 	.img-width {
 		float: left;
 		
-		width: 50%
+		width: 42px;
+		height: 44px;
 		}
 }
 .header-nav {
