@@ -163,6 +163,16 @@
 	
 	color: #5fc0cd;
 }
+@media only screen and (min-width: 700px) {
+	.footer-content1 img {
+		margin-top: 4px;
+		margin-bottom: 4px;
+	}
+	.footer-content1 p {
+		margin-top: 12px;
+		margin-bottom: 4px;
+	}
+}
 .footer-content2 img {
 	margin: 1% 0;
 	
