@@ -102,6 +102,10 @@
 .main-margin-top {
 	margin-top: 88px;
 }
+.main-margin-top a {
+	text-decoration: none;
+	color: #000000;
+}
 .row1-col p {
 	display: block;
 	
@@ -165,11 +169,11 @@
 }
 @media only screen and (min-width: 700px) {
 	.footer-content1 img {
-		margin-top: 4px;
+		margin-top: 12px;
 		margin-bottom: 4px;
 	}
 	.footer-content1 p {
-		margin-top: 12px;
+		margin-top: 4px;
 		margin-bottom: 4px;
 	}
 }
